@@ -1,0 +1,27 @@
+A* es un algoritmo de busqueda bastante eficiente en comparacion con otros algoritmos como Djikstra, BFS o bien DFS, para
+ello leimos varios documentos con informacion y datos que confirmaran este hecho, para este proyecto hicimos uso de este algoritmo
+basandonos en el algoritmo que sale en el enlace adjunto, este algoritmo fue adaptado segun las necesidades y estructura de
+nuestro proyecto
+https://www.geeksforgeeks.org/a-search-algorithm-in-python/
+
+Q-Learning:
+https://www.educaopen.com/digital-lab/blog/inteligencia-artificial/q-learning
+https://www.datacamp.com/es/tutorial/introduction-q-learning-beginner-tutorial
+
+ED en python
+https://docs.python.org/es/dev/tutorial/datastructures.html
+
+PYGAME:
+https://www.pygame.org/docs/
+
+Para este proyecto realizamos diferentes busquedas para adaptarnos y entender de una mejor manera la sintaxis de Python,
+python cuenta con una gran variedad de herramientas y para poder hacer un buen uso de ellas visitamos diferentes paginas web,
+leimos articulos e hicimos uso de difentes tipos de IA como Chat GPT y copilot para buscar documentancion más detallada sobre
+algo en especifico que necesitaramos saber, a continuacion se brindan algunos enlaces de los cuales hicimos uso:
+
+https://docs.python.org/3/
+https://docs.python.org/3/reference/datamodel.html#object.__eq__
+https://peps.python.org/pep-0008/#programming-recommendations
+https://docs.python.org/3/library/functions.html#isinstance
+https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
+https://www.w3schools.com/python/python_operators.asp
